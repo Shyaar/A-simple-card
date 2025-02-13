@@ -1,0 +1,6 @@
+# Ignore system/cache files
+node_modules/
+.vscode/
+.DS_Store
+.cache/
+*.log
